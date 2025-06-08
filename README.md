@@ -8,4 +8,5 @@ Please click on any link to see a walk through on how i detetc threats and respo
 | Associated Project         |
 |----------------------------|
 <a href="https://github.com/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-/blob/main/README.md">Event ID 263: Arbitrary File Read on Checkpoint Security Gateway [CVE-2024–24919]</a>|
+<a href="https://github.com/CyberBibs/SOC274---Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400-"> SOC274 - Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024-3400)</a>
 
